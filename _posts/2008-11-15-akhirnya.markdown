@@ -1,0 +1,20 @@
+---
+author: saya
+comments: true
+date: 2008-11-15 10:04:57+00:00
+layout: post
+link: http://sayafanni.web.id/?p=6
+slug: akhirnya
+title: Akhirnya………..
+wordpress_id: 6
+categories:
+- Kehidupan saya
+---
+
+waaaa...setelah sekian lama mendambakan bikin blog offline di slackware ku, akhirnya impian itu sampai juga..(hehe..maklum masih super duper newbie),,,,
+
+Ini tulisan pertamanya....wahahahaha,,,seneng banget soalnya....kalo flashback lagi ke belakang sungguh perjuangan dari mulai config apache,aktifin php,install phpmyadmin sangatlah berat (waduh! mungkin para expert bakal ngetawain hal ini ya)....makanya untuk memudahkan orang-orang seperti ku (hehe..kayaknya ga ada deh),aku akan mengulas caranya..heuheuheu....  di bagian lain tapi, bukan di sini....jadi bersabarlah..hehe,
+
+mmm....akhir kata, moga aja tulisan-tulisan yang ada di blog ini bisa membantu,,,amin
+
+ENJOY!!!!

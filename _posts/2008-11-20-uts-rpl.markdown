@@ -1,0 +1,61 @@
+---
+author: saya
+comments: true
+date: 2008-11-20 07:56:29+00:00
+layout: post
+link: http://sayafanni.web.id/?p=8
+slug: uts-rpl
+title: uts RPL
+wordpress_id: 8
+categories:
+- Kuliah
+---
+
+waah..mumpung mau uts RPL, aku cobain buat review materi dengan nulis disini ah....jangan protes yaa, klo ga suka yaa tutup aja..hehehe, bcanda kawan..oh iya, sori kalo rada kaku bahasanya, kan ni bagian serius..hehehe
+
+Apa itu RPL?? RPL tu kependekan dari Rekayasa Perangkat Lunak yang merupakan pendekatan sistematis dan matematis untuk membangun, memelihara dan mengenyahkan perangkat lunak atau bisa juga RPL itu adalah pendekatan sistematis untuk merekayasa perangkat lunak yang handal dan atau bermutu, tepat waktu dan dengan biaya yang optimal. (hmm....)
+
+<!-- more --> Mutu Perangkat lunak atau Software ditentukan oleh (min.) 3 pihak, yaitu
+1. Sponsor
+2. User
+3. Developer
+ketiga pihak inilah yang nantinya akan bersinergi untuk membuat perangkat lunak atau software yang bermutu, memiliki fungsionalitas maksium dan user friendly (tergantung jenis software yang dibuat) atau sebaliknya.
+
+Dalam pengembangannya, rekayasa perangkat lunak biasanya dipandu dengan permodelan menggunakan Daur Hidup Perangkat Lunak (Software Delevopment Life Cycle). Berikut adalah beberapa tahap tipikal yang diberikan dosen saya untuk menggambarkan daur hidup perangkat lunak:
+1. Analisis
+2. Perancangan
+3. Implementasi
+4. Pengujian
+5. Delivery (pengiriman)
+6. Pemeliharaan
+Dalam memproses suatu perangkat lunak, digunakan beberapa model-model proses seperti
+- **model Sekuensial linier** yang menggunakan proses linier terurut sebagai berikut:
+Analisis-->Design-->Code/Coding-->Test
+proses-proses diatas tidak bisa mendahului satu sama lain, karena suatu proses akan bekerja apabila proses sebelumnya telah terpenuhi, sebagai contoh proses test tidak akan dimulai lebih dahulu, karena butuh pembuatan software ataupun pemikiran dan analisa problem yang akan dibereskan dengan perangkat lunak tersebut.
+- **model Prototipe**
+prototipe paradigma dimulai dengan pengumpulan kebutuhan, pengembang dan pelanggan bertemu dan mendefinisikan obyektif keseluruhan dari perangkat lunak, mengidentifikasi segala kebutuhan yang diketahui. Setelah itu perancangan kilat, berfokus kepada penyajian dari aspek-aspek perangkat lunak tersebut yang akan nampak bagi pelanggan atau pemakai. Perancangan kilat membawa kepada konstruksi sebuah prototype, evaluasi oleh pelanggan atau pemakai dan dipakai untuk menyaring kebutuhan pengembangan perangkat lunak.
+- **Model RAD (Rapid Application Development)**
+model RAD sebenarnya hampir sama dengan model linier model, hanya saja tugas atau proses yang digunakan lebih mendetail dibandingkan dengan linier model. penggambaran prosesnya sebagai berikut :
+business modeling-->data modeling-->process modeling-->application generation-->testing and turn over
+-**model proses perangkat lunak evolusioner**
+adalah salah satu model proses perangkat lunak yang berbentuk spiral yang dimulai dengan customer communication, berlanjut ke planning lalu Risk analysis, engineering, Construction and release berakhir di costumer evaluation, jika kostumer menginginkan sesuatu atau penambahan atau perbaikan, maka spiral tersebut akan kembali dimulai lagi sampai akhirnya kostumer mendapatkan apa yang diinginkannya, serta menunngu perbaikan atau versi-versi atau update-an software tersebut dikemudian hari untuk selanjutnya memulai kembali spiral mode tersebut.
+
+Dalam sebuah pelaksanaan rekayasa perangkat lunak atau software engineering memiliki prinsip-prinsip yang akan "mengukuhkan" rekayasa tersebut, ada 7 prinsip RPL, yaitu :
+1. Ketegaran dan Formalitas
+2. Membuat pemilihan tanggung jawab
+3. Moduler
+4. Abstraksi
+5. Mengantisipasi perubahan
+6. Memakai hal-hal yang umum
+7. bertahap
+
+Berikut akan dituturkan beberapa faktor kendala dalam pengembangan software, dengan kata lain faktor yang membuat pengembangan perangkat lunak sehingga menjadi rumit atau sulit adalah berkaitan dengan beberapa hal berikut ini, yaitu :
+komunikasi
+langkah-langkah atau tahapan yang dilakukan pada pengembangan software
+karakteristik proyek
+karakteristik personel atau individu
+perihal manajemen
+
+Sekian dulu pembahasannya kawan-kawan, cz waktu uts mau dateng niih..ampe ketemu di lain kesempatan ya.......doain..hehe
+
+sumber : materi kuliah Rekayasa Perangkat Lunak oleh Pak Eddy Prasetyo N.

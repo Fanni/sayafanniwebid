@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: Tentang Saya
 permalink: /about/
 ---
 
-Some information about you!
+Hasil dua orang dengan sifat yang sangat berbeda, ayah yang kalem dan mamah yang cerewet, ayah yang keras dan mamah yang lembut, ayah yang praktikal dan mamah yang teoritikal, ayah yang berkumis dan mamah yang berkerudung :p
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[about.me/fanni](http://about.me/fanni)
