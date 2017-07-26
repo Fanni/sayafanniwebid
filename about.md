@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: Tentang Saya
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hasil dua orang dengan sifat yang sangat berbeda, ayah yang kalem dan mamah yang cerewet, ayah yang keras dan mamah yang lembut, ayah yang praktikal dan mamah yang teoritikal, ayah yang berkumis dan mamah yang berkerudung :p
 
 
-[jekyll-organization]: https://github.com/jekyll
+[about.me/fanni](http://about.me/fanni)
