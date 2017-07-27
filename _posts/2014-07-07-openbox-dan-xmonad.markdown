@@ -32,10 +32,11 @@ Untuk OpenBox, file konfigurasinya terletak di ~/.config/openbox sedangkan untuk
 
 Berikut hasil scrot dari slackware saya, pada OpenBox saya pakai conky, tint2 dan nitrogen. Sedangkan pada Xmonad saya memakai conky dan dzen2
 
--OpenBox-
 [![OpenBoxSlackware](https://farm4.staticflickr.com/3861/14584960602_f2b9700d84.jpg)](https://www.flickr.com/photos/49546882@N06/14584960602)
--Xmonad-
+*OpenBox*
+
 [![XmonadSlackware](https://farm3.staticflickr.com/2937/14605786493_7872108cf5.jpg)](https://www.flickr.com/photos/49546882@N06/14605786493)
+*Xmonad*
 
 Untuk saat ini saya nyaman dengan Xmonad, karena saya tidak perlu mengatur posisi window-window yang terbuka, apalagi saat mengerjakan pekerjaan yang menggunakan banyak vim untuk ditampilkan di saat yang bersamaan :D
 
