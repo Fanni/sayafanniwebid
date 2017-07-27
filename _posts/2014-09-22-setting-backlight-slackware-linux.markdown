@@ -22,7 +22,7 @@ Caranya dengan memasukkan intel.modeset=1 dan acpi_backlight=intel_backlight ke 
 Sekarang saat pertama booting, tingkat kecerahan menyesuaikan setelan kecerahan di xfce :D
 
 Berikut ini isi file elilo.conf saya
-`
+```bash
 chooser=simple
 delay=1
 timeout=1
@@ -31,4 +31,4 @@ image=vmlinuz
         label=vmlinuz
         read-only
         append="root=/dev/sda5 intel.modeset=1 acpi_backlight=intel_backlight ro"
-`
+```
